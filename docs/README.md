@@ -52,25 +52,38 @@ EC サイトの開発・保守(受託開発)
   - インフラ : AWS
   - 管理ツール : Git / GitHub / Docker
 - 実装詳細
-  - Google Analytics を使用したアクセス解析の実装（GA タグでの測定）
-  - プルダウン式の検索機能の実装
-  - 仕様変更に基づく修正等
+  - Google Analytics を使用したアクセス解析（GA タグでの測定）
+  - プルダウン式の検索機能
+  - スクリーンショット機能
+  - 仕様変更に基づく修正対応
+  - ドキュメント作成
 
 ## 業務外活動
+
+- 個人開発
+  - 以前作成したポートフォリオをリニューアル中です！
+  - 開発環境
+    - フロント : React / TypeScript 
+      - State管理 : React Query
+    - バック : Rails API
+    - データベース : MySQL
+    - インフラ : Heroku / AWS ← 導入予定
+    - 管理ツール : Git / GitHub / Docker
+    - ツール : VSCode / Postman / Sequel Pro / Notion
 
 - 共同開発
   - 知り合いのエンジニアと共同で開発を行っており、主にバックエンド側を担当しています。
   - 開発環境
-    - フロント側 : React
-    - バック側 : Rails API
+    - フロント : React
+    - バック : Rails API
     - データベース : MySQL
-    - インフラ : Heroku, AWS ← 導入予定
+    - インフラ : Heroku
     - 管理ツール : Git / GitHub / Docker
 - もくもく会
   - お世話になっているメンターさんの学習コミュニティーにて週２ペースで参加しています。
 - 個人学習
   - フロントエンド学習
-    - Udemy 教材を使用して現在は`React`を学習中です。
+    - Udemy 教材等使用して現在は`React`を学習中です。
   - インフラ学習
     - AWS 学習プラットフォームの**CloudTech**に入会し、インフラ周りを学習中です。
 
